@@ -28,7 +28,7 @@ def process(path_file, instance):
 def remove(instance):
     """Aqui irá sua implementação"""
     instance_length = instance.__len__()
-    
+
     if instance_length == 0:
         print('Não há elementos', file=sys.stdout)
     else:
