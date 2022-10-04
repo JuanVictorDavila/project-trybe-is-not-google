@@ -25,7 +25,7 @@ class Queue:
     def search(self, index):
         """Aqui irá sua implementação"""
         if index < 0 or index > (self.size() - 1):
-            raise IndexError("Invalid Index")
+            raise IndexError("Index Inválido")
         if self.size() == 0:
             return None
         else:
