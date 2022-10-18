@@ -1,24 +1,6 @@
 # Boas-vindas ao repositório do TING (Trybe is not Google)!
 
-Para realizar o projeto, atente-se a cada passo descrito a seguir, e se tiver qualquer dúvida, nos envie por _Slack_! #vqv 🚀
-
-Aqui você vai encontrar os detalhes de como estruturar o desenvolvimento do seu projeto a partir deste repositório, utilizando uma branch específica e um _Pull Request_ para colocar seus códigos.
-
-# Termos e acordos
-
-Ao iniciar este projeto, você concorda com as diretrizes do Código de Conduta e do Manual da Pessoa Estudante da Trybe.
-
 # Entregáveis
-
-<details>
-  <summary><strong>🤷🏽‍♀️ Como entregar</strong></summary><br />
-
-  Para entregar o seu projeto você deverá criar um *Pull Request* neste repositório.
-
-  Lembre-se que você pode consultar nosso conteúdo sobre [Git & GitHub](https://app.betrybe.com/course/4d67f5b4-34a6-489f-a205-b6c7dc50fc16/) e nosso [Blog - Git & GitHub](https://blog.betrybe.com/tecnologia/git-e-github/) sempre que precisar!
-</details>
-
-<details>
   <summary><strong>👨‍💻 O que deverá ser desenvolvido</strong></summary><br />
 
 
@@ -43,24 +25,14 @@ Para isso, o programa desenvolvido por você deverá ter dois módulos:
 
 </details>
 
-<details>
-  <summary><strong>🗓 Data de Entrega</strong></summary><br />
-
-  - Este projeto é `individual`;
-  - São `2` dias de projeto;
-  - Data para entrega final do projeto: `21/09/2022 14:00`.
-
-</details>
-
 # Orientações
 <details>
-  <summary><strong>⚠ Antes de começar a desenvolver</strong></summary><br />
+  <summary><strong>⚠ Antes de iniciar uma implementação</strong></summary><br />
 
   1. Clone o repositório
 
-  - Use o comando: `git clone git@github.com:tryber/sd-016-a-project-ting.git`
+  - Use o comando: `git clone git@github.com:JuanVictorDavila/project-trybe-is-not-google.git`
   - Entre na pasta do repositório que você acabou de clonar:
-    - `cd sd-016-a-project-ting`
 
   2. Crie o ambiente virtual para o projeto
 
@@ -99,15 +71,13 @@ Para isso, o programa desenvolvido por você deverá ter dois módulos:
 
   7. Crie um novo `Pull Request` _(PR)_
 
-  - Vá até a página de _Pull Requests_ do [repositório no GitHub](https://github.com/tryber/sd-016-a-project-ting/pulls)
+  - Vá até a página de _Pull Requests_ do [repositório no GitHub](https://github.com/JuanVictorDavila/project-trybe-is-not-google/pulls)
   - Clique no botão verde _"New pull request"_
   - Clique na caixa de seleção _"Compare"_ e escolha a sua branch **com atenção**
   - Coloque um título para a sua _Pull Request_
     - Exemplo: _"Cria tela de busca"_
   - Clique no botão verde _"Create pull request"_
   - Adicione uma descrição para o _Pull Request_ e clique no botão verde _"Create pull request"_
-  - **Não se preocupe em preencher mais nada por enquanto!**
-  - Volte até a [página de _Pull Requests_ do repositório](https://github.com/tryber/sd-016-a-project-ting/pulls) e confira que o seu _Pull Request_ está criado
 
 </details>
 
@@ -180,8 +150,6 @@ Para isso, o programa desenvolvido por você deverá ter dois módulos:
   python3 -m flake8
   ```
 
-  ⚠️ **PULL REQUESTS COM ISSUES DE LINTER NÃO SERÃO AVALIADOS.
-  ATENTE-SE PARA RESOLVER TODAS AS ISSUES ANTES DE FINALIZAR O DESENVOLVIMENTO!** ⚠️
 </details>
 
 <details>
@@ -271,40 +239,6 @@ Para isso, o programa desenvolvido por você deverá ter dois módulos:
     - No menu à direita, clique no _link_ **"Labels"** e escolha a _label_ **code-review**;
 
     - No menu à direita, clique no _link_ **"Assignees"** e escolha **o seu usuário**;
-
-    - No menu à direita, clique no _link_ **"Reviewers"** e digite `students`, selecione o time `tryber/students-sd-016-a`.
-
-  Caso tenha alguma dúvida, [aqui tem um video explicativo](https://vimeo.com/362189205).
-
-</details>
-
-<details>
-  <summary><strong>🕵🏿 Revisando um pull request</strong></summary><br />
-
-  Use o conteúdo sobre [Code Review](https://course.betrybe.com/real-life-engineer/code-review/) para te ajudar a revisar os _Pull Requests_.
-
-</details>
-
-<details>
-  <summary><strong>🗣 Nos dê feedbacks sobre o projeto!</strong></summary><br />
-
-Ao finalizar e submeter o projeto, não se esqueça de avaliar sua experiência preenchendo o formulário.
-**Leva menos de 3 minutos!**
-
-[FORMULÁRIO DE AVALIAÇÃO DE PROJETO](https://be-trybe.typeform.com/to/ZTeR4IbH)
-
-</details>
-
-<details>
-  <summary><strong>🗂 Compartilhe seu portfólio!</strong></summary><br />
-
-  Agora que você finalizou os requisitos, chegou a hora de mostrar ao mundo que você aprendeu algo novo! 🚀
-
-  Siga esse [**guia que preparamos com carinho**](https://app.betrybe.com/course/career/personal_portfolio/utilizando-projetos-feitos-na-trybe/d7ca7f50-0a8f-4b10-b360-cfcb454d832a) para disponibilizar o projeto finalizado no seu GitHub pessoal.
-
-  Esse passo é super importante para ganhar mais visibilidade no mercado de trabalho, mas também é útil para manter um back-up do seu trabalho.
-
-  E você sabia que o LinkedIn é a principal rede social profissional e compartilhar o seu aprendizado lá é muito importante para quem deseja construir uma carreira de sucesso? Compartilhe esse projeto no seu LinkedIn, marque o perfil da Trybe (@trybe) e mostre para a sua rede toda a sua evolução.
 
 </details>
 
