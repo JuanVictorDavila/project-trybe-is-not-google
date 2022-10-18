@@ -3,7 +3,6 @@ from ting_file_management.file_management import txt_importer
 
 
 def process(path_file, instance):
-    """Aqui irá sua implementação"""
     is_duplicate_file = False
     instance_length = instance.__len__()
 
@@ -26,7 +25,6 @@ def process(path_file, instance):
 
 
 def remove(instance):
-    """Aqui irá sua implementação"""
     instance_length = instance.__len__()
 
     if instance_length == 0:
@@ -38,7 +36,6 @@ def remove(instance):
 
 
 def file_metadata(instance, position):
-    """Aqui irá sua implementação"""
     try:
         result = instance.search(position)
         print(f'{result}', file=sys.stdout)
